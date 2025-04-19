@@ -6,4 +6,4 @@ nav:
   - Install: installation.md
   - Tutorials:
       - Hello World: tutorials/hello_world.md
-      - Training: tutorials/settings.md
+      - Settings: tutorials/settings.md
